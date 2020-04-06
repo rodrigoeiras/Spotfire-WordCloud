@@ -1,4 +1,4 @@
-# Spotfire-WordCloud
+# Spotfire WordCloud
 On this project, I create a Data Function to generate a word cloud in Spotfire. There are two versions, one using the Open R engine that I used to plot the word cloud in RStudio and another one I used to plot the word cloud in Spotfire using TERR.
 
 # Explaining the Data Function
